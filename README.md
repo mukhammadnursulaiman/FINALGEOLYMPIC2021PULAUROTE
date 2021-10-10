@@ -1,0 +1,2 @@
+# FINALGEOLYMPIC2021PULAUROTE
+ Babak Final Geolympic 2021 WebGIS Pulau Rote
